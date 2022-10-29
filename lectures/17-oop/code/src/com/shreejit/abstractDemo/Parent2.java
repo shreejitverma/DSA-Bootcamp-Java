@@ -1,4 +1,4 @@
-package com.kunal.abstractDemo;
+
 
 public abstract class Parent2 {
 

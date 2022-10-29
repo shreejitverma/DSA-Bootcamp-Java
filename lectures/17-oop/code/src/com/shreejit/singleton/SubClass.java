@@ -1,4 +1,4 @@
-package com.kunal.singleton;
+package singleton;
 
 import com.kunal.access.A;
 

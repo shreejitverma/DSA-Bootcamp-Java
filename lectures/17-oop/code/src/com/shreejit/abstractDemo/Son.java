@@ -1,4 +1,4 @@
-package com.kunal.abstractDemo;
+
 
 public class Son extends Parent {
 
