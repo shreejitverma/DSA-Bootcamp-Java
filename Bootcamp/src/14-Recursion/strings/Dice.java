@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class Dice {
     public static void main(String[] args) {
         dice("", 4);
-        System.out.println(diceRet("", 4));
+        System.out.println(diceFaceRet("",4,8));
     }
 
     static void dice(String p, int target) {

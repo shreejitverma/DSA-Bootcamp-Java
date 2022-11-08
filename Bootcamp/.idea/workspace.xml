@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e58c1b0-d32f-44fc-ad0a-421c2d1667af" name="Changes" comment="" />
+    <list default="true" id="0e58c1b0-d32f-44fc-ad0a-421c2d1667af" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12-strings/MainStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/12-strings/MainStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/14-Recursion/strings/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/14-Recursion/strings/Dice.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +55,21 @@
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.ColNoFixed">
+  <component name="RunManager" selected="Application.AllPaths">
+    <configuration name="AllPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AllPaths" />
+      <module name="Bootcamp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="Bootcamp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ColNoFixed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.shreejit.ColNoFixed" />
       <module name="Bootcamp" />
@@ -63,22 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountNums" />
-      <module name="Bootcamp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Fiboji" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fiboji" />
-      <module name="Bootcamp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Fibona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibona" />
+    <configuration name="Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dice" />
       <module name="Bootcamp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AllPaths" />
+        <item itemvalue="Application.Dice" />
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.ColNoFixed" />
         <item itemvalue="Application.MainArrays" />
-        <item itemvalue="Application.Fiboji" />
-        <item itemvalue="Application.CountNums" />
-        <item itemvalue="Application.Fibona" />
       </list>
     </recent_temporary>
   </component>
@@ -109,11 +115,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667048591310</updated>
-      <workItem from="1667048593352" duration="3149000" />
+      <workItem from="1667048593352" duration="5052000" />
+      <workItem from="1667499947351" duration="9660000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -12,3 +12,4 @@ public class MainStrings {
         System.out.println(a);
     }
 }
+
